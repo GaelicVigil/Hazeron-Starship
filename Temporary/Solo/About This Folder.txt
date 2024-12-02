@@ -1,0 +1,10 @@
+Folder Name: C:/Users/lumin/Hazeron Starship/Temporary/Solo
+Created: Mon Dec 2 11:44:31 2024
+Created By: Hazeron Starship
+Purpose: Data Cache
+
+This folder contains transient files created by the Hazeron Starship program. The data contained in these files enables the program to save precious network bandwidth and CPU processing time. Removal of these files is discouraged if you are actively using Hazeron Starship; the program will be forced to download large amounts of data and it may consume a lot of CPU time to recreate these files when it needs them.
+
+The files in this folder contain only data. They are not executable programs. Viruses cannot spread by infecting any of these files.
+
+It is safe to remove this folder or any of the files contained herein. No harm to the Hazeron Starship program installation will occur if any of these files are removed. Hazeron Starship will not have to be reinstalled as a result of removing any of these files.

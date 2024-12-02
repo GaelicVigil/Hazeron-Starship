@@ -1,0 +1,10 @@
+Folder Name: C:/Users/lumin/Hazeron Starship/Saved Games
+Created: Sun Jan 1 00:17:20 2023 GMT
+Created By: Hazeron Starship
+Purpose: Data Cache
+
+This folder contains saved game files created by the Hazeron Starship program. Files include the current game in progress and checkpoint saves.
+
+The files in this folder contain only data. They are not executable programs. Viruses cannot spread by infecting any of these files.
+
+It is safe to remove this folder or any of the files contained herein. No harm to the Hazeron Starship program installation will occur if any of these files are removed. Hazeron Starship will not have to be reinstalled as a result of removing any of these files.
